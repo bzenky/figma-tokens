@@ -1,0 +1,16 @@
+{
+  "name": "figma-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "style-dictionary build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}
